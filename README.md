@@ -40,4 +40,4 @@ Este curso sienta las bases para Física Computacional IV, asignatura en la cual
 
 - Análisis espectral y transformada de Fourier.
 
-El dominio de los fundamentos adquiridos en Física Computacional III será clave para abordar con éxito los desafíos computacionales y conceptuales de la cuarta parte del curso, donde los modelos serán más exigentes tanto en términos físicos como computacionales.
+El dominio de los fundamentos adquiridos en Física Computacional III será clave para abordar con éxito los desafíos computacionales y conceptuales de Física Computacional IV, donde los modelos serán más exigentes tanto en términos físicos como computacionales.

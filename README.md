@@ -1,4 +1,4 @@
-### Introducción
+## Introducción
 
 El curso de Física Computacional III está diseñado para que estudiantes de astrofísica profundicen en el uso y comprensión de métodos numéricos, fundamentales para el análisis de problemas complejos que no pueden resolverse mediante técnicas analíticas tradicionales. En este contexto, se enfatiza el uso de algoritmos iterativos y métodos de aproximación para abordar situaciones realistas dentro de la física y la astrofísica.
 
@@ -8,7 +8,7 @@ Una de las competencias escenciales de un profesional de la astrofísica es la c
 
 Los temas tratados en este curso incluyen resolución de ecuaciones no lineales, interpolación, diferenciación e integración numérica, y resolución de ecuaciones diferenciales ordinarias. Estos métodos constituyen herramientas fundamentales para modelar y simular fenómenos físicos diversos. Aunque el curso no entra en el desarrollo de modelos astrofísicos avanzados, sienta las bases necesarias para continuar hacia áreas como la mecánica celeste, la dinámica estelar o el análisis de datos observacionales.
 
-### Importancia y Aplicaciones
+## Importancia y Aplicaciones
 
 En los problemas físicos más realistas, los sistemas suelen caracterizarse por ecuaciones de alta complejidad, donde intervienen fenómenos no lineales, múltiples interacciones o condiciones de contorno no triviales. Estas características hacen que las soluciones analíticas clásicas sean díficiles de conseguir, y es precisamente en estos escenarios donde los métodos numéricos adquieren relevancia.
 
@@ -18,7 +18,7 @@ En astrofísica, este tipo de técnicas se aplica en áreas tan diversas como la
 
 En síntesis, Física Computacional III representa un paso clave en la formación científica avanzada, dotando a las y los estudiantes de herramientas concretas para enfrentar desafíos contemporáneos mediante el uso riguroso y creativo de la computación científica.
 
-### Habilidades por Desarrollar
+## Habilidades por Desarrollar
 
 - Comprender e implementar métodos numéricos esenciales.
 
@@ -28,7 +28,7 @@ En síntesis, Física Computacional III representa un paso clave en la formació
 
 - Realizar simulaciones computacionales aplicadas a fenómenos físicos.
 
-### Relación con Física Computacional IV
+## Relación con Física Computacional IV
 
 Este curso sienta las bases para Física Computacional IV, asignatura en la cual se abordan métodos numéricos más avanzados y se profundiza en su aplicación a problemas de mayor complejidad. En dicho curso, las y los estudiantes explorarán temas como:
 

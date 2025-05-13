@@ -41,3 +41,14 @@ Este curso sienta las bases para Física Computacional IV, asignatura en la cual
 - Análisis espectral y transformada de Fourier.
 
 El dominio de los fundamentos adquiridos en Física Computacional III será clave para abordar con éxito los desafíos computacionales y conceptuales de Física Computacional IV, donde los modelos serán más exigentes tanto en términos físicos como computacionales.
+
+## Bibliografía Básica
+
+- **R. Landau** – *A Survey of Computational Physics: Introductory Computational Science*. Princeton University Press, Princeton and Oxford.  
+  [Acceder al PDF](https://www.dsf.unica.it/~fiore/survey.pdf)
+
+- **M. Zingale** – *Tutorial on Computational Astrophysics*.  
+  [Leer en línea](https://zingale.github.io/comp_astro_tutorial/intro.html)
+
+- **Q. Kong** – *Python Programming and Numerical Methods: A Guide for Engineers and Scientists*. Elsevier.  
+  [Leer en línea](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)

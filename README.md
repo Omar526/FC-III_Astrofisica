@@ -1,3 +1,5 @@
+# Física Computacional III
+
 ## Introducción
 
 El curso de Física Computacional III está diseñado para que estudiantes de astrofísica profundicen en el uso y comprensión de métodos numéricos, fundamentales para el análisis de problemas complejos que no pueden resolverse mediante técnicas analíticas tradicionales. En este contexto, se enfatiza el uso de algoritmos iterativos y métodos de aproximación para abordar situaciones realistas dentro de la física y la astrofísica.

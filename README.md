@@ -46,3 +46,5 @@ El dominio de los fundamentos adquiridos en Física Computacional III será clav
 - **R. Landau** – *A Survey of Computational Physics: Introductory Computational Science*. Princeton University Press. [Leer en línea](https://www.dsf.unica.it/~fiore/survey.pdf)
 - **M. Zingale** – *Tutorial on Computational Astrophysics*. [Leer en línea](https://zingale.github.io/comp_astro_tutorial/intro.html)
 - **Q. Kong** – *Python Programming and Numerical Methods: A Guide for Engineers and Scientists*. Elsevier. [Leer en línea](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+- **D. G. Zill** – *Ecuaciones diferenciales con aplicaciones de modelado*. Cengage Learning, 2009. [Leer en línea](https://cutbertblog.wordpress.com/wp-content/uploads/2019/01/zill-d.g.-ecuaciones-diferenciales-con-aplicaciones-de-modelado-cengage-learning-2009.pdf)
